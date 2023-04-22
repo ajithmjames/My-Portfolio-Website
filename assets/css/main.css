@@ -876,9 +876,9 @@ body {
   z-index: -1;
   height: 200px;
   width: 200px;
-  border-radius: 9999px;
+  border-radius: 99px;
   --tw-bg-opacity: 1;
-  background-color: rgb(196 113 237 / var(--tw-bg-opacity));
+  background-color: rgb(112 74 242 / var(--tw-bg-opacity));
   opacity: 0.25;
   --tw-blur: blur(100px);
   filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
@@ -908,7 +908,7 @@ body {
   width: 200px;
   border-radius: 9999px;
   --tw-bg-opacity: 1;
-  background-color: rgb(246 79 89 / var(--tw-bg-opacity));
+  background-color: rgb(112 74 242 / var(--tw-bg-opacity));
   opacity: 0.25;
   --tw-blur: blur(100px);
   filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
@@ -1129,7 +1129,7 @@ h6 {
   height: 2px;
   width: 0;
   --tw-bg-opacity: 1;
-  background-color: rgb(234 88 12 / var(--tw-bg-opacity));
+  background-color: rgb(112 74 242 / var(--tw-bg-opacity));
   transition-duration: 300ms;
   transition-timing-function: cubic-bezier(0.4, 0, 1, 1);
   --tw-content: '';
@@ -1139,7 +1139,7 @@ h6 {
 .main-header .navbar li a:hover, 
 .main-header .navbar li a.active {
   --tw-text-opacity: 1;
-  color: rgb(234 88 12 / var(--tw-text-opacity));
+  color: rgb(112 74 242 / var(--tw-text-opacity));
 }
 
 .main-header .navbar li a:hover:after, 
@@ -1232,7 +1232,7 @@ h6 {
 }
 
 .text-theme {
-  background: linear-gradient(to right, #12c2e9, #f64f59, #f64f59);
+  background: linear-gradient(to right, #704af2, #927dd5, #704af2);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -1422,7 +1422,7 @@ h6 {
   left: 0px;
   height: 2px;
   width: 50px;
-  background-image: linear-gradient(to left, #12c2e9, #c471ed, #f64f59);
+  background-image: linear-gradient(to left, #704af2, #927dd5, #704af2);
   background-size: 120% 2px;
 }
 
@@ -1598,7 +1598,7 @@ h6 {
   --tw-border-opacity: 1;
   border-color: rgb(255 255 255 / var(--tw-border-opacity));
   --tw-bg-opacity: 1;
-  background-color: rgb(18 194 233 / var(--tw-bg-opacity));
+  background-color: rgb(112, 74, 242 / var(--tw-bg-opacity));
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
   transition-duration: 300ms;
@@ -1693,7 +1693,7 @@ h6 {
   font-size: 30px;
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
-  background: linear-gradient(to left, #12c2e9, #c471ed, #f64f59);
+  background: linear-gradient(to left, #704af2, #927dd5, #704af2);
 }
 
 .feature-box-01 .feature-content {
